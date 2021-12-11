@@ -1,7 +1,8 @@
+import React from 'react'
 import * as S from './styles'
 
 type ContainerProps = {
-  children: JSX.Element
+  children: React.ReactNode
 }
 
 export default function Container({ children }: ContainerProps) {

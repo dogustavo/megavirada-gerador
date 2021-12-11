@@ -3,5 +3,5 @@ export default function rem(number: number) {
 
   const unit = units / 16
 
-  return `${Math.floor(unit)}rem`
+  return `${unit}rem`
 }

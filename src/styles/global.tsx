@@ -10,7 +10,9 @@ export default createGlobalStyle`
     }
     html,
     body {
-        font-family: 'Inter', 'sans-serif';
+        font-family: 'Asap Condensed', 'Oswald','Inter', 'sans-serif';
+        color: ${({ theme }) => theme.colors.text};
+        background: ${({ theme }) => theme.colors.background};
         font-weight: 400;
         font-size: 1rem;
         letter-spacing: 2px;

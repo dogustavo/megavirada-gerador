@@ -11,14 +11,3 @@ export const containers = {
   large: '1620px',
   huge: '2260px'
 }
-
-export const colors = {
-  white: '#FFF',
-  black: '#000'
-}
-
-export const fonts = {
-  light: 200,
-  regular: 400,
-  bold: 700
-}

@@ -7,6 +7,10 @@ export const Container = styled.div`
   padding: 0 ${rem(16)};
   margin: 0 auto;
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
 
   @media screen and (min-width: ${breakpoints.medium}) {
     max-width: ${containers.medium};
