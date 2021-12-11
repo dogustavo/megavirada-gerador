@@ -14,10 +14,10 @@ Página para assim como na mega sena gerar 6 números aletórios entre 1 e 60;
   </tr>
   <tr>
     <td>
-      <img width=450 style="border-radius: 5px" height="auto" alt="Home" title="Home" src="public/img/mobile-light-mode.png" /> 
+      <img width=450 style="border-radius: 5px" height="auto" alt="Home Light" title="Home" src="public/img/mobile-light-mode.png" /> 
       </td>
     <td>
-      <img width=450 style="border-radius: 5px" height="auto" alt="level.up" title="Level Up" src="public/img/mobile-dark-mode.png" />
+      <img width=450 style="border-radius: 5px" height="auto" alt="Home Dark" title="Level Up" src="public/img/mobile-dark-mode.png" />
     </td>
   </tr>
  </table>
